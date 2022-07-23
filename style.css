@@ -1,0 +1,100 @@
+/*--------------------------------------------------------------
+# Genaral
+--------------------------------------------------------------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    padding: 100px 0px;
+    overflow: hidden;
+}
+
+/*--------------------------------------------------------------
+# navbar
+--------------------------------------------------------------*/
+.navbar-brand {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    color: #3E3E3E;
+}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3E3E3E;
+}
+
+/*--------------------------------------------------------------
+# Header slider secation
+--------------------------------------------------------------*/
+.carousel-caption {
+    width: 639px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.carousel-caption h5 {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.carousel-caption p {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.book-btn {
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px 43px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #3F87F5;
+    margin-bottom: 20px;
+}
+
+/*--------------------------------------------------------------
+# moment is Precious
+--------------------------------------------------------------*/
+.moment-detills h2 {
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 60px;
+    color: #0A0826;
+}
+
+.moment-detills p {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6C6C6C;
+}
+
+.explore-btn {
+    padding: 10px 24px;
+    background: #3F87F5;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.moment-detills a i {
+    margin-left: 8px;
+}
