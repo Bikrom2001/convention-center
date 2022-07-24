@@ -254,9 +254,11 @@ a {
 .clients {
     padding-top: 0px;
 }
+
 .clients-title {
     margin-bottom: 50px;
 }
+
 .clients-title h2 {
     text-align: center;
     font-weight: 600;
@@ -299,4 +301,27 @@ a {
     line-height: 24px;
     letter-spacing: 0.2px;
     color: #747474;
+}
+
+/*--------------------------------------------------------------
+# Frequently Asked Questions
+--------------------------------------------------------------*/
+.fr-questions {
+    padding-top: 0px;
+}
+
+/*--------------------------------------------------------------
+# footers
+--------------------------------------------------------------*/
+footer {
+    background: #0B0D17;
+    padding: 40px 0px;
+}
+
+.copy-right p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+    margin: 0;
 }
